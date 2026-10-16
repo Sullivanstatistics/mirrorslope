@@ -6,7 +6,9 @@
 * Checked locally with `--as-cran` on Windows 11, R 4.5.3 (ucrt); spelling checked with the spelling package (en-GB, inst/WORDLIST).
 * win-builder R-release (R 4.6.1, 16 Oct 2026): 1 NOTE (New submission; the spell check flags the names Kati and
   Maharry in the Description field, which are a person's name). PDF and HTML manuals built OK.
-* [Fill in: win-builder R-devel result; R-hub GitHub Actions workflow (linux, windows, macos).]
+* win-builder R-devel (R-devel r90673, 2026-10-14, 16 Oct 2026): 1 NOTE, identical to R-release (New submission; names
+  flagged). PDF and HTML manuals built OK.
+* [Fill in: R-hub GitHub Actions workflow (linux, windows, macos).]
 
 ## Notes for the reviewer
 
