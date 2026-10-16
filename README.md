@@ -88,6 +88,16 @@ keeps every figure traceable to the values supplied. The `mirror_data`
 structure conforms to a versioned specification shared with a companion SAS
 macro so that both tools produce equivalent figures.
 
+## Citation and credit
+
+The mirrored slopegraph was designed by Kati Maharry (Capricor Therapeutics). The
+display is described in Maharry K, Sullivan A. *The Mirrored Slopegraph: A
+Back-to-Back Composition for Comparing Two-Arm Change-from-Baseline Trajectories*
+(2026, manuscript in preparation), and was first used in the supplementary
+appendix of McDonald CM et al., *Lancet* 2026;408:721-733,
+[doi:10.1016/S0140-6736(26)01385-1](https://doi.org/10.1016/S0140-6736(26)01385-1).
+Run `citation("mirrorslope")` for a citation entry.
+
 ## License
 
 MIT

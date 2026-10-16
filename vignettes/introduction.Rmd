@@ -21,6 +21,11 @@ library(ggplot2)
 
 ## What a mirror slope plot shows
 
+The mirrored slopegraph was designed by Kati Maharry and is described in
+Maharry and Sullivan (2026, manuscript in preparation). It was first used in
+the supplementary appendix of the HOPE-3 trial report (McDonald et al., *Lancet*
+2026, doi:10.1016/S0140-6736(26)01385-1). This package implements the display.
+
 A mirror slope plot compares two treatment arms over a single observation
 interval. Both arms share one x-axis and converge at a central endpoint, so
 the between-arm gap at that endpoint is the primary visual quantity. The
