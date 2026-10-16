@@ -1,9 +1,10 @@
 Package: mirrorslope
 Title: Mirror Slope Plots for Two-Arm Clinical Trial Data
 Version: 0.2.1
-Authors@R: 
+Authors@R: c(
     person("Adam", "Sullivan", email = "asullivan@capricor.com",
-           role = c("aut", "cre"))
+           role = c("aut", "cre")),
+    person("Capricor Therapeutics", role = "fnd"))
 Description: Creates mirrored slope plots comparing two treatment arms over a
     single observation interval. Both arms share a common x-axis and converge
     at a central endpoint, making the between-arm gap the primary visual
