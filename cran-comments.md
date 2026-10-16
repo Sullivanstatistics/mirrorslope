@@ -8,7 +8,8 @@
   Maharry in the Description field, which are a person's name). PDF and HTML manuals built OK.
 * win-builder R-devel (R-devel r90673, 2026-10-14, 16 Oct 2026): 1 NOTE, identical to R-release (New submission; names
   flagged). PDF and HTML manuals built OK.
-* [Fill in: R-hub GitHub Actions workflow (linux, windows, macos).]
+* R-hub (GitHub Actions, R-devel, 16 Oct 2026): linux, windows and macos jobs all succeeded (the R-hub action fails a job
+  on any error or warning). Run: https://github.com/Sullivanstatistics/mirrorslope/actions/runs/38955393864
 
 ## Notes for the reviewer
 
