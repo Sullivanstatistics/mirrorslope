@@ -11,6 +11,8 @@ Description: Creates mirrored slope plots comparing two treatment arms over a
     at a central endpoint, making the between-arm gap the primary visual
     quantity. Returns standard 'ggplot2' objects for full extensibility.
 License: MIT + file LICENSE
+URL: https://github.com/sullivanstats/mirrorslope
+BugReports: https://github.com/sullivanstats/mirrorslope/issues
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 Depends: R (>= 4.0.0)

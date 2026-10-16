@@ -15,7 +15,7 @@ ecosystem remains available for customisation.
 
 ```r
 # install.packages("devtools")
-devtools::install_github("<owner>/mirrorslope")
+devtools::install_github("sullivanstats/mirrorslope")
 ```
 
 ## Quick start
