@@ -1,0 +1,29 @@
+Package: mirrorslope
+Title: Mirror Slope Plots for Two-Arm Clinical Trial Data
+Version: 0.2.1
+Authors@R: c(
+    person("Adam", "Sullivan", email = "asullivan@capricor.com",
+           role = c("aut", "cre")),
+    person("Kati", "Maharry", email = "kmaharry@capricor.com",
+           role = "aut"))
+Description: Creates mirrored slope plots comparing two treatment arms over a
+    single observation interval. Both arms share a common x-axis and converge
+    at a central endpoint, making the between-arm gap the primary visual
+    quantity. Returns standard 'ggplot2' objects for full extensibility.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Depends: R (>= 4.0.0)
+Imports:
+    ggplot2 (>= 3.4.0),
+    rlang (>= 1.0.0),
+    grDevices,
+    stats,
+    utils
+Suggests:
+    testthat (>= 3.0.0),
+    knitr,
+    rmarkdown,
+    patchwork
+VignetteBuilder: knitr
+Config/roxygen2/version: 8.0.0

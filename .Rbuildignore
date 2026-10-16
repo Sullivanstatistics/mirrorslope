@@ -1,0 +1,5 @@
+^BUILD_INSTRUCTIONS\.md$
+^.*\.Rproj$
+^\.Rproj\.user$
+^check_log\.txt$
+^cran-comments\.md$
