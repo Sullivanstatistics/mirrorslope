@@ -4,8 +4,9 @@
 
 * This is a new release (the only NOTE is "New submission").
 * Checked locally with `--as-cran` on Windows 11, R 4.5.3 (ucrt); spelling checked with the spelling package (en-GB, inst/WORDLIST).
-* [Fill in before submitting: results from win-builder (R-devel and R-release) and from the R-hub GitHub Actions
-  workflow (linux, windows, macos), see CRAN_SUBMISSION.md.]
+* win-builder R-release (R 4.6.1, 16 Oct 2026): 1 NOTE (New submission; the spell check flags the names Kati and
+  Maharry in the Description field, which are a person's name). PDF and HTML manuals built OK.
+* [Fill in: win-builder R-devel result; R-hub GitHub Actions workflow (linux, windows, macos).]
 
 ## Notes for the reviewer
 

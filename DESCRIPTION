@@ -10,7 +10,7 @@ Description: Creates mirrored slope plots comparing two treatment arms over a
     quantity. Returns standard 'ggplot2' objects for full extensibility.
     The display was designed by Kati Maharry and is described in Maharry and
     Sullivan (2026, manuscript in preparation); it was first used in the
-    supplementary appendix of McDonald et al. (2026)
+    supplementary appendix of McDonald and colleagues (2026)
     <doi:10.1016/S0140-6736(26)01385-1>.
 License: MIT + file LICENSE
 URL: https://github.com/Sullivanstatistics/mirrorslope
