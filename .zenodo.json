@@ -1,0 +1,33 @@
+{
+  "title": "mirrorslope: Mirror Slope Plots for Two-Arm Clinical Trial Data",
+  "description": "An R package that creates mirrored slope plots comparing two treatment arms over a single observation interval. Both arms share a common x-axis and converge at a central endpoint, making the between-arm gap the primary visual quantity. Returns standard ggplot2 objects. The display was designed by Kati Maharry and is described in Maharry and Sullivan (2026, manuscript in preparation).",
+  "creators": [
+    {
+      "name": "Sullivan, Adam J.",
+      "affiliation": "Capricor Therapeutics"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Maharry, Kati",
+      "type": "Other",
+      "affiliation": "Capricor Therapeutics"
+    },
+    {
+      "name": "Capricor Therapeutics",
+      "type": "Sponsor"
+    }
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": ["R", "ggplot2", "clinical trials", "data visualisation", "slope graph", "randomised trial"],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Sullivanstatistics/mirrorslope",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
