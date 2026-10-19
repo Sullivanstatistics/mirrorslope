@@ -88,6 +88,12 @@ keeps every figure traceable to the values supplied. The `mirror_data`
 structure conforms to a versioned specification shared with a companion SAS
 macro so that both tools produce equivalent figures.
 
+## Development
+
+mirrorslope was designed and directed by Adam Sullivan from the display designed by Kati Maharry. Code, tests and
+documentation were written with Claude (Anthropic), an AI coding assistant, which is why commits carry a co-author line.
+The authors reviewed the code and are responsible for it.
+
 ## Citation and credit
 
 The mirrored slopegraph was designed by Kati Maharry (Capricor Therapeutics). The
